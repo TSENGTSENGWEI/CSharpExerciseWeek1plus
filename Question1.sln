@@ -3,17 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32421.90
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Question1And2", "Question1\Question1And2.csproj", "{1DBCEDB5-85E1-4538-8FEE-D88AEF09FEC7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Question1And2", "Question1\Question1And2.csproj", "{1DBCEDB5-85E1-4538-8FEE-D88AEF09FEC7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Question3", "Question3\Question3.csproj", "{F0B3A09B-372E-42BC-8CA8-3D576F218BCF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Question3", "Question3\Question3.csproj", "{F0B3A09B-372E-42BC-8CA8-3D576F218BCF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Question4", "Question4\Question4.csproj", "{C690A49B-F334-4A14-853D-1B0C1978041D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Question4", "Question4\Question4.csproj", "{C690A49B-F334-4A14-853D-1B0C1978041D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Question4Tests", "Question4Tests\Question4Tests.csproj", "{5C6CA446-C52A-4E38-9D35-928F5C96ADAC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Question4Tests", "Question4Tests\Question4Tests.csproj", "{5C6CA446-C52A-4E38-9D35-928F5C96ADAC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Question5", "Question5\Question5.csproj", "{176C3BE3-A7D0-4587-B7DE-1E63F7FD02D4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Question5", "Question5\Question5.csproj", "{176C3BE3-A7D0-4587-B7DE-1E63F7FD02D4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Question5Tests", "Question5Tests\Question5Tests.csproj", "{BDB24AA3-37B7-4DCA-AC2B-2E7A20D917DD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Question5Tests", "Question5Tests\Question5Tests.csproj", "{BDB24AA3-37B7-4DCA-AC2B-2E7A20D917DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Question6", "Question6\Question6.csproj", "{93FC5BD1-8619-4F7E-BFEE-19AE351100A3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{BDB24AA3-37B7-4DCA-AC2B-2E7A20D917DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BDB24AA3-37B7-4DCA-AC2B-2E7A20D917DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BDB24AA3-37B7-4DCA-AC2B-2E7A20D917DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93FC5BD1-8619-4F7E-BFEE-19AE351100A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93FC5BD1-8619-4F7E-BFEE-19AE351100A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93FC5BD1-8619-4F7E-BFEE-19AE351100A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93FC5BD1-8619-4F7E-BFEE-19AE351100A3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
