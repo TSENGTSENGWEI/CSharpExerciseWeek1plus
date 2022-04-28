@@ -22,7 +22,7 @@ static double FindMaxAverage(int[] nums, int k)
             if (Sum > MaxSum)
             {
                 MaxSum = Sum;
-                //Console.WriteLine($"取頭： {Start} 尾 ：{End}");
+                Console.WriteLine($"取頭： {Start} 尾 ：{index}");
             }
 
             if (k != nums.Length) //全取跳過  不然 由頭加1  總值減回
